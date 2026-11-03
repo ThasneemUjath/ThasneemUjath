@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Thasneem 👋</h1>
+<h1 align="center">Hi, I'm Thasneem </h1>
 
 <p align="center">
   <b>AI/ML Engineer & Data Analyst</b> · Turning data into insights with LLMs, RAG & Agents
@@ -11,16 +11,16 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-- 🎯 Aspiring **AI/ML Engineer & Data Analyst** who builds practical LLM-powered tools
-- 🔨 Currently building **Auto Analyst**, an agent-based assistant for automated data analysis
-- 📚 Learning in public: RAG, AI agents, and MCP
-- 💼 Open to **AI/ML and Data Analyst** internships and entry-level roles
+-  Aspiring **AI/ML Engineer & Data Analyst** who builds practical LLM-powered tools
+-  Currently building **Auto Analyst**, an agent-based assistant for automated data analysis
+-  Learning in public: RAG, AI agents, and MCP
+-  Open to **AI/ML and Data Analyst** internships and entry-level roles
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Languages**
 
