@@ -40,7 +40,6 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
 
-**Tools**
 
 **Tools**
 
@@ -63,14 +62,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ThasneemUjath&show_icons=true&theme=default&hide_border=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThasneemUjath&layout=compact&hide_border=true"/>
-</p>
-
----
 
 <p align="center">
   <i>Let's connect. I'm always happy to talk AI and data. 🌱</i>
