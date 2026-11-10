@@ -56,7 +56,7 @@
 | Project | What it does |
 |---|---|
 | 📄 [**Research-RAG-app**](https://github.com/ThasneemUjath/Research-RAG-app) | RAG app for asking questions over research papers, using **FAISS** retrieval and **Groq GPT-OSS 120B** for grounded answers. |
-|🧑🏻‍💻 **[AI Career Copilot](https://github.com/ThasneemUjath/AI_Career_Copilot)**: LLM agent app that matches a resume to a job with an explainable score, writes a tailored resume checked for invented facts, and runs scored mock interviews. Built with Python, Streamlit, MCP and Docker. [Live demo](https://ai-career-copilot-6wa9.onrender.com/)
+|🧑🏻‍💻 **[AI Career Copilot](https://github.com/ThasneemUjath/AI_Career_Copilot)** | LLM agent app that matches a resume to a job with an explainable score, writes a tailored resume checked for invented facts, and runs scored mock interviews. Built with Python, Streamlit, MCP and Docker.|
 | 🤖 **Auto Analyst** *(in progress)* | Agent-based assistant that automates data analysis, from question to insight. |
 | 🗄️ [**SQL-Generator**](https://github.com/ThasneemUjath/SQL-Generator) | Converts natural-language questions into SQL queries automatically. |
 | 🩺 [**Breast-Cancer-Possibility-Detector**](https://github.com/ThasneemUjath/Breast-Cancer-Possibility-Detector) | ML-based detection system comparing multiple models, with a user-friendly interface. |
